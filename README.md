@@ -69,7 +69,9 @@ The implementation includes functionality to visualize marginal effects for each
 - Y-axis: Marginal effect on prediction
 - Separate plots for training and test data
 
-These visualizations provide clear insights into how each feature contributes to predictions across its range of values.
+![TEAM Feature Marginal Effects](output.png)
+
+These visualizations provide clear insights into how each feature contributes to predictions across its range of values. The plots show how each feature affects the model output across different values, with separate lines for training and test sets.
 
 ## Additivity Verification
 
